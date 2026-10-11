@@ -1,6 +1,6 @@
 {
-  "version": "0.4.1",
-  "commit": "e715183",
-  "samples": false,
-  "builtAt": "2026-10-11T15:46:36.158Z"
+  "version": "0.5.0",
+  "commit": "cc80903",
+  "samples": true,
+  "builtAt": "2026-10-11T16:35:07.054Z"
 }
