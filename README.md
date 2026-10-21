@@ -25,7 +25,7 @@
 
 ## 샘플은 이렇게 보세요
 
-1. **[논문 샘플](https://poby-ya.github.io/reading-coach/#/read/sample-paper-mars)**을 엽니다.
+1. [논문 샘플](https://poby-ya.github.io/reading-coach/#/read/sample-paper-mars)을 엽니다.
 2. 화면 위의 **전체 보기**를 선택하면 원문과 번역을 함께 볼 수 있습니다.
 3. 문장을 선택하고 **모르겠어요**를 눌러 미리 만들어진 해설을 살펴봅니다.
 
