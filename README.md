@@ -29,7 +29,7 @@
 2. 화면 위의 **전체 보기**를 선택하면 원문과 번역을 함께 볼 수 있습니다.
 3. 문장을 선택하고 **모르겠어요**를 눌러 미리 만들어진 해설을 살펴봅니다.
 
-짧은 글은 **[뉴스 샘플](https://poby-ya.github.io/reading-coach/#/read/sample-news-arctic)**에서 볼 수 있습니다.
+짧은 글은 [뉴스 샘플](https://poby-ya.github.io/reading-coach/#/read/sample-news-arctic)에서 볼 수 있습니다.
 
 ## 사용 조건과 공개 범위
 
